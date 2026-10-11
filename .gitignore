@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+venv_web/
+
+# Python cache/build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Training artifacts
+logs/
+models/
+logs_web/
+models_web/
+
+# External dependencies
+external/
+webgame/node_modules/
+webgame/package-lock.json
+webgame_tmp_test/
+
+# IDE/OS
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini

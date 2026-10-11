@@ -1,0 +1,7 @@
+Local source backup captured 11 October 2026 before retiring an inactive PC checkout.
+
+This is an archival snapshot, not a release or a merge into the main branch.
+Dependency and generated build folders were excluded. Original Git histories, private configuration, models, binary files and other omitted data are retained in the owner's local recovery archive.
+
+Original nested repository remotes:
+external/flappy-bird-gymnasium — https://github.com/markub3327/flappy-bird-gymnasium
